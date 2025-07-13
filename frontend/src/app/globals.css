@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@plugin "daisyui";
+.accent-gradient {
+  background: linear-gradient(to right, #6366f1, #3b82f6);
+}
+body {
+  font-family: 'Poppins', sans-serif;
+}
